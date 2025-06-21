@@ -54,12 +54,4 @@ How It Works
     Overlays the webcam feed onto the slides for a modern presentation experience.
     All temporary files are cleaned up after use.
 
-During Presentation:
-
-    Swipe left (index finger): Previous slide
-    Swipe right (pinky): Next slide
-    Index finger up: Draw/annotate
-    Index & middle fingers up: Pointer/highlight
-    Three fingers up: Undo last annotation
-    Press q: Quit presentation
 
