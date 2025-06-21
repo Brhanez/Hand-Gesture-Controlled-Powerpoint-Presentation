@@ -12,6 +12,7 @@ Features
       User-Friendly GUI: Select files, adjust gesture sensitivity, and start presentations easily.
 
 Requirements
+
       - Windows OS (PowerPoint COM automation required)
       - Python 3.7+
       - Microsoft PowerPoint (installed)
