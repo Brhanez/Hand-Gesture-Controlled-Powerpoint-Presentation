@@ -1,7 +1,7 @@
 # Hand-Gesture-Controlled-Powerpoint-Presentation
 Hand Gesture Controlled Powerpoint Presentation
 
-A Python application that lets you control PowerPoint presentations using hand gestures detected via your webcam. Navigate slides, annotate, and interact with your presentation—all touch-free!
+      A Python application that lets you control PowerPoint presentations using hand gestures detected via your webcam. Navigate slides, annotate, and interact with your presentation—all touch-free!
 
 Features
 
@@ -19,26 +19,26 @@ Requirements
       - Webcam
 
 Python Packages
-   - opencv-python
-   - cvzone
-   - numpy
-   - python-pptx
-   - comtypes
-   - tkinter (usually included with Python)
+         - opencv-python
+         - cvzone
+         - numpy
+         - python-pptx
+         - comtypes
+         - tkinter (usually included with Python)
 
 Install all dependencies with:
 
 
-  pip install opencv-python cvzone numpy python-pptx comtypes
+        pip install opencv-python cvzone numpy python-pptx comtypes
 
 Usage
 
-  Clone the repository: git clone https://github.com/Brhanez/Hand-Gesture-Controlled-Powerpoint-Presentation.git
-  cd hand-gesture-presentation
+        Clone the repository: git clone https://github.com/Brhanez/Hand-Gesture-Controlled-Powerpoint-Presentation.git
+        cd hand-gesture-presentation
 
 Run the application:
 
-  python [GUI.py]
+        python [GUI.py]
 
 In the GUI:
 
