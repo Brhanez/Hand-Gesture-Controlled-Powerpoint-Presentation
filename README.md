@@ -48,12 +48,14 @@ During Presentation:
     Press q: Quit presentation
 
 How It Works
+    
     Uses OpenCV and cvzone to detect hand landmarks and recognize gestures.
     Converts PowerPoint slides to images for fast display and annotation.
     Overlays the webcam feed onto the slides for a modern presentation experience.
     All temporary files are cleaned up after use.
 
 During Presentation:
+
     Swipe left (index finger): Previous slide
     Swipe right (pinky): Next slide
     Index finger up: Draw/annotate
